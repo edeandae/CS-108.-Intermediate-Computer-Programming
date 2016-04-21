@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=xx
+comment0.target=void\ shiftHorizontal(double)
+comment1.params=yy
+comment1.target=void\ shiftVertical(double)
+comment10.params=len\ wdt
+comment10.target=double\ calcArea(double,\ double)
+comment2.params=
+comment2.target=void\ talk()
+comment3.params=
+comment3.target=double\ getlength()
+comment4.params=
+comment4.target=double\ getWidth()
+comment5.params=x
+comment5.target=void\ setlength(double)
+comment6.params=x
+comment6.target=void\ setWidth(double)
+comment7.params=
+comment7.target=double\ getArea()
+comment8.params=
+comment8.target=Rectangle()
+comment9.params=xCoordinate\ yCoordinate\ lengthGiven\ widthGiven
+comment9.target=Rectangle(double,\ double,\ double,\ double)
+numComments=11

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Triangle()
+comment1.params=sideA\ sideB\ sideC
+comment1.target=Triangle(double,\ double,\ double)
+comment2.params=changec
+comment2.target=double\ setC(double)
+comment3.params=
+comment3.target=double\ getC()
+comment4.params=
+comment4.target=java.util.List\ showAllCs()
+comment5.params=
+comment5.target=boolean\ isRightTriange()
+comment6.params=
+comment6.target=int\ getNumMade()
+numComments=7
